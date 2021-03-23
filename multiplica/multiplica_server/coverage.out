@@ -1,0 +1,6 @@
+mode: set
+/usr/local/src/go/multiplica/multiplica_server/server_grpc.go:17.13,22.23 3 0
+/usr/local/src/go/multiplica/multiplica_server/server_grpc.go:26.9,32.53 4 0
+/usr/local/src/go/multiplica/multiplica_server/server_grpc.go:22.23,24.10 1 0
+/usr/local/src/go/multiplica/multiplica_server/server_grpc.go:32.53,34.10 1 0
+/usr/local/src/go/multiplica/multiplica_server/server_grpc.go:38.92,42.2 3 0
